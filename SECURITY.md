@@ -7,7 +7,6 @@ These versions of `triplecheck-repository-fauna` are currently being supported w
 | Version | Supported |
 | ------- | --------- |
 | 1.x.x   | :x:       |
-| 0.x.x   | :x:       |
 
 ## Reporting a Vulnerability
 
